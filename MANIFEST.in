@@ -1,0 +1,9 @@
+include LICENSE README.md CHANGELOG.rst
+
+graft tourney_lawyer
+prune tests
+exclude Makefile
+exclude .markdownlint.json
+
+global-exclude */__pycache__/*
+global-exclude *.egg-info/*
