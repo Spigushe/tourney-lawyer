@@ -2,6 +2,8 @@
 [![Python version](https://img.shields.io/badge/python-3.9-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
 [![Code Style](https://img.shields.io/badge/code%20style-black-black)](https://github.com/psf/black)
+[![Validation](https://github.com/Spigushe/tourney-lawyer/actions/workflows/static.yml/badge.svg)](https://github.com/Spigushe/tourney-lawyer/actions/workflows/static.yml)
+
 Discord bot to manage tournaments using Challonge
 
 ## Requirements
