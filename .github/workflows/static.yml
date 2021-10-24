@@ -27,6 +27,3 @@ jobs:
       - name: Lint
         run: |
           flake8
-      - name: Test
-        run: |
-          pytest

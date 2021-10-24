@@ -5,7 +5,7 @@ install:
 	pip install --upgrade --upgrade-strategy eager -e ".[dev]"
 
 serve:
-	source .env && krcg-bot
+	source .env && lawyer
 
 release:
 	fullrelease
